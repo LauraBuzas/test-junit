@@ -12,6 +12,7 @@ public class TstTest {
     @Test
     public void b() {
         assert 1 == 2;
+        System.out.println("b");
     }
 
 }

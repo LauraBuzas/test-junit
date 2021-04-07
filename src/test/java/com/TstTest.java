@@ -2,7 +2,8 @@ package com;
 
 import org.junit.Test;
 
-public class Tst {
+
+public class TstTest {
     @Test
     public void a() {
         System.out.println("a");

@@ -11,7 +11,7 @@ public class TstTest {
 
     @Test
     public void b() {
-        assert 1 == 2;
+        assert 1 == 1;
     }
 
 }

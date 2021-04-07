@@ -13,6 +13,7 @@ public class TstTest {
     public void b() {
         assert 1 == 2;
         System.out.println("b");
+        throw new RuntimeException();
     }
 
 }
